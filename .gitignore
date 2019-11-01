@@ -2,3 +2,5 @@ com.redhat.rhsa-RHEL7.xml.bz2
 rhel6/
 rhel7/
 rhel8/
+**/SCAPreport.html
+**/SCAPresult.xml
